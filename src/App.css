@@ -58,12 +58,12 @@ a {
   -webkit-text-fill-color: transparent;
 }
 
-.section__padding: {
-  padding: 4rem 6rem;
+.section__padding {
+  padding: 2rem 3rem;
 }
 
-.section__margin: {
-  margin: 4rem 6rem;
+.section__margin {
+  margin: 2rem 3rem;
 }
 
 .scale-up-center {
