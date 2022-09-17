@@ -41,7 +41,7 @@
     flex-direction: column-reverse;
   }
   .ai__blog-container__groupA {
-    margin-right: 2rem 0;
+    margin: 2rem 0;
   }
   .ai__blog-container__groupA .ai__blog-container_article {
     width: 48%;
